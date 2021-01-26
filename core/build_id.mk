@@ -23,3 +23,4 @@ ifneq (,$(filter aosp_bonito aosp_sargo aosp_sunfish,$(TARGET_PRODUCT)))
 else
     BUILD_ID=RQ1A.210105.003
 endif
+BUILD_ID=io_release_v1.0
